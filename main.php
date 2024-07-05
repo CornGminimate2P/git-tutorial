@@ -1,7 +1,7 @@
 <?php 
 echo "main";
 echo "product";
-echo "about me";
-echo "map";
+echo "about me2";
+echo "map2";
 ?>
 
